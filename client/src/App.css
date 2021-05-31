@@ -1,0 +1,20 @@
+.bgc{
+  background-color: #8EA8BD;
+}
+
+.coleur{
+  color: #8EA8BD;
+  border-bottom: 4px solid #8EA8BD;
+}
+
+/* .bg-cover {
+  background-attachment: static;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 95vh;
+} */
+
+/* .bg-Img{
+  background-image:linear-gradient(to bottom, rgba(143, 142, 142, 0.6) 0%,rgba(124, 124, 124, 0.774) 100%), url("./images/program.png"); 
+} */
